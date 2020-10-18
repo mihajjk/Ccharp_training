@@ -9,7 +9,6 @@ namespace Ccharp_training
             for (int i = 0; i < mas.Length; i++)
             {
                 Console.Write(mas[i].ToString()+"  ");
-
             } Console.WriteLine();
         }
 
