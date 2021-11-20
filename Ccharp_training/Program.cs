@@ -14,7 +14,7 @@ namespace Ccharp_training
 
         static void Main()
         {
-            int[] mas = new int[] {8,4,7,1,2};
+            int[] mas = new int[] {8,4,7,1,2};//123
 
             printMass(mas);
             for (int j = 1; j < mas.Length; j++)
