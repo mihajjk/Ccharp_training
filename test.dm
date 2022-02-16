@@ -1,4 +1,6 @@
-Hello world!
+> [!NOTE]
+> Information the user should notice even if skimming.
+
 
 ```mermaid
   graph TD;
